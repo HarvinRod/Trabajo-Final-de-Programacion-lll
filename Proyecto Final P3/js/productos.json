@@ -1,0 +1,122 @@
+[
+    {
+        "id": "Accesorios-01",
+        "titulo": "Ps5 Control",
+        "imagen": "./img/Accesorios/ps5-control.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "Accesorios-02",
+        "titulo": "Audifono PS5",
+        "imagen": "./img/Accesorios/audifonops5.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio":4500
+    },
+    {
+        "id": "Accesorios-03",
+        "titulo": "Control Xbox",
+        "imagen": "./img/Accesorios/xbox-control.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "Accesorios-04",
+        "titulo": "Control Xbox Elite",
+        "imagen": "./img/Accesorios/xbox-controlpro.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "consolas-01",
+        "titulo": "Ps5 Spiderman 1TB",
+        "imagen": "./img/Consolas/PS5-Spiderman.jpg",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 32000
+    },
+    {
+        "id": "consolas-02",
+        "titulo": "Ps5 Slim Digital",
+        "imagen": "./img/Consolas/PS5-SLIMD.jpeg",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 29000
+    },
+    {
+        "id": "consolas-03",
+        "titulo": "Xbox Series s",
+        "imagen": "./img/Consolas/xbox-s.png",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "consolas-04",
+        "titulo": "Xbox Series x",
+        "imagen": "./img/Consolas/xbox-x.png",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "juegos-01",
+        "titulo": "Assassin's Creed Valhalla",
+        "imagen": "./img/Juegos/01.png",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "juegos-02",
+        "titulo": "Call of Duty: Black Ops Cold War",
+        "imagen": "./img/Juegos/02.png",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "juegos-03",
+        "titulo": "CupHead",
+        "imagen": "./img/Juegos/04.png",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "juegos-04",
+        "titulo": "Grand Theft Auto V",
+        "imagen": "./img/Juegos/06.png",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 1500
+    }
+]
