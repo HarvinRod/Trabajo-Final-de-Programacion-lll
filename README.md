@@ -5,3 +5,4 @@ Link de Incremento: https://youtu.be/qmhzRVbs-Ek
 
 ![image](https://github.com/user-attachments/assets/42b56f3d-637f-4314-bc3d-4bfcae47bee7)
 
+[Plan Prueba.pdf](https://github.com/user-attachments/files/16592335/Plan.Prueba.pdf)
